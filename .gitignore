@@ -1,2 +1,4 @@
+doc
+src/.ipynb_checkpoints
 src/venv
 .DS_STORE
