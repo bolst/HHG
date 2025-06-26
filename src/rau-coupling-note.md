@@ -1,6 +1,4 @@
-Hey Nic,
-
-Yes, the next step is to include the coupling to the electric field. This is usually done in these case via the vector potential, using that
+The next step is to include the coupling to the electric field. This is usually done in these case via the vector potential, using that
 
 $$
 E = -\frac{dA}{dt}
@@ -35,4 +33,3 @@ $$
 
 This can be reduced using the decomposition of psi_n(x) into plane-waves as in Shubham's notes, but it'll be non-diagonal. Once we've got that we'll stick this all into the TDSE and use a numerical ODE solver to compute the wave-fcn as it changes in time.
 
-\- Jeff Rau
